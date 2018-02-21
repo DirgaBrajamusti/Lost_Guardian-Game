@@ -1,12 +1,12 @@
 # Project Title
 
-Noname Game
+Lost Guardian Game
 
 ## Info
 
 PURPOSE OF PROJECT: Collage Project
 
-VERSION or DATE: 1.2
+VERSION or DATE: 1.3
 
 HOW TO START THIS PROJECT: Just new Menu and then Play
 
